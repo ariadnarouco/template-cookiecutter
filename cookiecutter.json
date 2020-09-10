@@ -1,10 +1,6 @@
 {
-    "project_slug": "pyapp",
-    "project_url": "",
-    "app_name": "{{ cookiecutter.project_slug }}",
-    "cli_script": "{{ cookiecutter.app_name }}",
+    "project_slug": "",
+    "app_name": "{{cookiecutter.project_slug}}",
     "author_name": "",
-    "author_email": "",
-    "project_version": "0.1.0.dev0",
-    "sphinx_theme": "alabaster"
+    "author_email": ""
 }
