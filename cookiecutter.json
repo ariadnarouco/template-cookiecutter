@@ -2,5 +2,8 @@
     "project_slug": "",
     "app_name": "{{cookiecutter.project_slug}}",
     "author_name": "",
-    "author_email": ""
+    "author_email": "",
+    "bla" : {
+        "bla":"bla"
+    }
 }
