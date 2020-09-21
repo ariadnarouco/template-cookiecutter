@@ -6,3 +6,6 @@ This app belongs to {{cookiecutter.author_name}}
 Contact information 
 {{cookiecutter.author_email}}
 
+
+{{cookiecutter.bla.bla}}
+
